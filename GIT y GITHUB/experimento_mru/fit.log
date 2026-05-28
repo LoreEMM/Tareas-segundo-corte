@@ -1,0 +1,35 @@
+
+
+*******************************************************************************
+Wed May 27 22:01:15 2026
+
+
+FIT:    data read from "datos_mru.txt" using 1:2
+        format = x:z
+        #datapoints = 6
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(t)
+	f(t) = m*t + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 5.9100000000e+02   0.00e+00  7.07e-01    1.000000e+00   1.000000e+00
+BREAK: Singular matrix in Invert_RtR
+
+*******************************************************************************
+Wed May 27 22:03:57 2026
+
+
+FIT:    data read from "datos_mru.txt" using 1:2
+        format = x:z
+        #datapoints = 6
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(t)
+	f(t) = m*t + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 5.9100000000e+02   0.00e+00  7.07e-01    1.000000e+00   1.000000e+00
+BREAK: Singular matrix in Invert_RtR

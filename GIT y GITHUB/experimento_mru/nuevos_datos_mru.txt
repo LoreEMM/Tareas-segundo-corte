@@ -1,0 +1,7 @@
+# tiempo(s)  posicion(m) - NUEVOS DATOS
+0    5
+2    11
+4    17
+6    23
+8    29
+10   35
